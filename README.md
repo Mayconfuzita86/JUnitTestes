@@ -1,4 +1,4 @@
-# Criando testes comm JUnit
+# Criando testes com JUnit
 
 Projeto criado junto as aulas do curso 'Testes Unitários Com JUnit' da plataforma DIO
 
